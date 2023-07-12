@@ -13,5 +13,8 @@ CSS layout techniques: The CSS code demonstrates the use of flexbox for creating
 CSS styling: The code showcases various CSS properties and techniques for styling elements, including backgrounds, borders, typography, and transitions.
 
 
+Live Demo:https://moayyadsaleh.github.io/business-card/
+
+
 
 ![portfolio](https://github.com/moayyadsaleh/business-card/assets/137034202/e9dc847c-533c-4bbb-8844-d22d54b2d650)
